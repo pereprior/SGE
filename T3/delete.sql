@@ -1,2 +1,2 @@
 DELETE FROM clientes
-WHERE id_cliente = 1;
+WHERE id = 1;
